@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\myAbstract\myAbstract\bin\Debug\net6.0\myAbstract.exe
+C:\Users\meesh\source\repos\myAbstract\myAbstract\bin\Debug\net6.0\myAbstract.deps.json
+C:\Users\meesh\source\repos\myAbstract\myAbstract\bin\Debug\net6.0\myAbstract.runtimeconfig.json
+C:\Users\meesh\source\repos\myAbstract\myAbstract\bin\Debug\net6.0\myAbstract.dll
+C:\Users\meesh\source\repos\myAbstract\myAbstract\bin\Debug\net6.0\myAbstract.pdb
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.AssemblyInfo.cs
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.dll
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\refint\myAbstract.dll
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.pdb
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\myAbstract.genruntimeconfig.cache
+C:\Users\meesh\source\repos\myAbstract\myAbstract\obj\Debug\net6.0\ref\myAbstract.dll
